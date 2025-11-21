@@ -21,5 +21,5 @@ This repository contains my submission for Task 2 of the Future Interns Cybersec
 
 ## Thanks
 Grateful to Future Interns for this opportunity to gain hands-on SOC experience.
-By: Smridhi Gera
+By: Pawan Bharambe 
 
